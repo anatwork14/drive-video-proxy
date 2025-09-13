@@ -17,6 +17,7 @@ A lightweight server to stream videos from Google Drive without rate limits. Thi
 
 ### Node.js Version
 ```bash
-git clone https://github.com/yourusername/drive-video-proxy.git
-cd drive-video-proxy
+git clone https://github.com/anatwork14/drive-video-proxy.git
 npm install
+node server.js
+```
